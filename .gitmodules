@@ -1,6 +1,6 @@
-[submodule "awesome-zaychik"]
-	path = awesome-zaychik
-	url = https://github.com/zienaz/awesome-zaychik.git
 [submodule "awesome"]
 	path = awesome
-	url = https://github.com/zienaz/awesome-zaychik
+	url = https://github.com/zienaz/awesome-midnight-blue
+[submodule "rofi"]
+	path = rofi
+	url = https://github.com/zienaz/rofi-theme
