@@ -1,6 +1,9 @@
 [submodule "awesome"]
 	path = awesome
-	url = https://github.com/zienaz/awesome-midnight-blue
+	url = https://github.com/zienaz/awesome-powerarrow
 [submodule "rofi"]
 	path = rofi
 	url = https://github.com/zienaz/rofi-theme
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/zienaz/Nvim-NvChad
