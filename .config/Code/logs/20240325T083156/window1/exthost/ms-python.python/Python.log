@@ -1,0 +1,33 @@
+2024-03-25 08:32:10.964 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-25 08:32:10.964 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-25 08:32:10.964 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-03-25 08:32:10.964 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-25 08:32:10.964 [info] Experiment 'pythonTestAdapter' is active
+2024-03-25 08:32:11.406 [info] Test server listening.
+2024-03-25 08:32:11.422 [info] Python interpreter path: /bin/python3
+2024-03-25 08:32:13.112 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-03-25 08:32:17.902 [info] Starting Pylance language server.
+2024-03-25 08:32:49.853 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-25 08:32:49.853 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-25 08:32:49.853 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-03-25 08:32:49.854 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-25 08:32:49.854 [info] Experiment 'pythonTestAdapter' is active
+2024-03-25 08:32:50.276 [info] Test server listening.
+2024-03-25 08:32:51.840 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-25 08:32:55.863 [info] Starting Pylance language server.
+2024-03-25 08:32:57.377 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-25 08:32:57.377 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-25 08:32:57.377 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-03-25 08:32:57.377 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-25 08:32:57.377 [info] Experiment 'pythonTestAdapter' is active
+2024-03-25 08:32:57.621 [info] Default formatter is set to null for workspace /home/zii/.config/awesome
+2024-03-25 08:32:57.669 [info] Test server listening.
+2024-03-25 08:32:57.674 [info] Python interpreter path: /bin/python3
+2024-03-25 08:32:58.132 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-25 08:32:58.839 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-25 08:33:00.845 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-03-25 08:33:03.993 [info] Starting Pylance language server.
+2024-03-25 08:33:06.593 [info] Discover tests for workspace name: undefined - uri: /home/zii/.config/Code/User/settings.json
+2024-03-25 08:33:21.854 [info] Discover tests for workspace name: undefined - uri: /home/zii/.config/Code/User/settings.json
+2024-03-25 08:45:41.076 [info] Discover tests for workspace name: undefined - uri: /home/zii/.config/Code/User/settings.json
+2024-03-25 08:45:52.494 [info] Discover tests for workspace name: undefined - uri: /home/zii/.config/Code/User/settings.json

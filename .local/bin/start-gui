@@ -1,0 +1,8 @@
+#!/bin/bash
+#set -e
+#echo 'Z!!1661' | sudo -S chmod 777 /tmp/xwayland-0
+#XDG_RUNTIME_DIR=/tmp Xwayland &
+export PULSE_SERVER=tcp:127.0.0.1:4713
+env DISPLAY=:0 awesome
+#dbus-launch --exit-with-session awesome &
+#awesome &

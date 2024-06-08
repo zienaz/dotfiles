@@ -1,0 +1,22 @@
+2024-03-22 14:08:15.206 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-22 14:08:15.206 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-22 14:08:15.206 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-03-22 14:08:15.206 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-22 14:08:15.206 [info] Experiment 'pythonTestAdapter' is active
+2024-03-22 14:08:15.887 [info] Test server listening.
+2024-03-22 14:08:15.960 [info] > conda info --json
+2024-03-22 14:08:16.048 [info] Found: /bin/python3 --> /bin/python3.10
+2024-03-22 14:08:16.050 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-03-22 14:08:16.126 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-03-22 14:08:16.133 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-03-22 14:08:16.175 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-22 14:08:16.176 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-22 14:08:16.176 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-22 14:08:16.176 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-22 14:08:16.178 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-22 14:08:16.178 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-22 14:08:16.317 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-22 14:08:16.388 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-22 14:08:16.807 [info] Python interpreter path: /bin/python3
+2024-03-22 14:08:19.845 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-03-22 14:08:25.898 [info] Starting Pylance language server.

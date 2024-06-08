@@ -1,0 +1,9 @@
+2024-03-25 08:21:47.601 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-25 08:21:47.601 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-25 08:21:47.601 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-03-25 08:21:47.601 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-25 08:21:47.601 [info] Experiment 'pythonTestAdapter' is active
+2024-03-25 08:21:47.603 [info] Test server listening.
+2024-03-25 08:21:47.605 [info] Python interpreter path: /bin/python3
+2024-03-25 08:21:49.326 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-03-25 08:21:54.690 [info] Starting Pylance language server.

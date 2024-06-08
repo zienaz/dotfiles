@@ -1,0 +1,175 @@
+2024-03-22 14:06:31.367 [info] Started initializing default profile extensions in extensions installation folder. file:///home/zii/.vscode/extensions
+2024-03-22 14:06:33.453 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:06:35.152 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/zii/.vscode/extensions Unable to create file 'vscode-userdata:/home/zii/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-03-22 14:06:35.153 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/zii/.vscode/extensions
+2024-03-22 14:06:35.709 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-22 14:06:53.499 [info] Getting Manifest... ms-python.python
+2024-03-22 14:06:53.562 [info] Installing extension: ms-python.python
+2024-03-22 14:06:54.922 [info] Getting Manifest... ms-python.vscode-pylance
+2024-03-22 14:06:55.006 [info] Getting Manifest... ms-python.debugpy
+2024-03-22 14:06:55.689 [info] Installing extension: ms-python.vscode-pylance
+2024-03-22 14:06:55.691 [info] Installing extension: ms-python.debugpy
+2024-03-22 14:07:19.757 [info] Extension signature is verified: ms-python.debugpy
+2024-03-22 14:07:25.363 [info] Extracted extension to file:///home/zii/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-armhf: ms-python.debugpy
+2024-03-22 14:07:25.368 [info] Extension signature is verified: ms-python.python
+2024-03-22 14:07:25.406 [info] Renamed to /home/zii/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-armhf
+2024-03-22 14:07:25.429 [info] Extracting extension completed. ms-python.debugpy
+2024-03-22 14:07:25.569 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:07:25.764 [info] Extension signature is verified: ms-python.vscode-pylance
+2024-03-22 14:07:33.143 [info] Getting Manifest... ms-vscode.cpptools
+2024-03-22 14:07:33.235 [info] Installing extension: ms-vscode.cpptools
+2024-03-22 14:07:51.564 [info] Extracted extension to file:///home/zii/.vscode/extensions/ms-python.python-2024.2.1: ms-python.python
+2024-03-22 14:07:51.651 [info] Renamed to /home/zii/.vscode/extensions/ms-python.python-2024.2.1
+2024-03-22 14:07:51.720 [info] Extracting extension completed. ms-python.python
+2024-03-22 14:07:51.856 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:08:10.201 [info] Extracted extension to file:///home/zii/.vscode/extensions/ms-python.vscode-pylance-2024.3.1: ms-python.vscode-pylance
+2024-03-22 14:08:10.240 [info] Renamed to /home/zii/.vscode/extensions/ms-python.vscode-pylance-2024.3.1
+2024-03-22 14:08:10.261 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-03-22 14:08:10.324 [info] Extension installed successfully: ms-python.debugpy
+2024-03-22 14:08:10.325 [info] Extension installed successfully: ms-python.python
+2024-03-22 14:08:10.326 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-03-22 14:08:10.422 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:08:13.698 [info] Getting Manifest... eamodio.gitlens
+2024-03-22 14:08:14.057 [info] Installing extension: eamodio.gitlens
+2024-03-22 14:08:27.684 [info] Extension signature is verified: ms-vscode.cpptools
+2024-03-22 14:08:34.130 [info] Extension signature is verified: eamodio.gitlens
+2024-03-22 14:08:37.535 [info] Extracted extension to file:///home/zii/.vscode/extensions/eamodio.gitlens-14.9.0: eamodio.gitlens
+2024-03-22 14:08:37.615 [info] Renamed to /home/zii/.vscode/extensions/eamodio.gitlens-14.9.0
+2024-03-22 14:08:37.649 [info] Extracting extension completed. eamodio.gitlens
+2024-03-22 14:08:37.742 [info] Extension installed successfully: eamodio.gitlens
+2024-03-22 14:08:37.778 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:08:46.373 [info] Extracted extension to file:///home/zii/.vscode/extensions/ms-vscode.cpptools-1.19.9-linux-armhf: ms-vscode.cpptools
+2024-03-22 14:08:46.406 [info] Renamed to /home/zii/.vscode/extensions/ms-vscode.cpptools-1.19.9-linux-armhf
+2024-03-22 14:08:46.454 [info] Extracting extension completed. ms-vscode.cpptools
+2024-03-22 14:08:46.522 [info] Extension installed successfully: ms-vscode.cpptools
+2024-03-22 14:08:46.581 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:09:17.377 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-03-22 14:09:17.437 [info] Installing extension: dracula-theme.theme-dracula
+2024-03-22 14:09:27.284 [info] Extension signature is verified: dracula-theme.theme-dracula
+2024-03-22 14:09:27.387 [info] Extracted extension to file:///home/zii/.vscode/extensions/dracula-theme.theme-dracula-2.24.3: dracula-theme.theme-dracula
+2024-03-22 14:09:27.401 [info] Renamed to /home/zii/.vscode/extensions/dracula-theme.theme-dracula-2.24.3
+2024-03-22 14:09:27.409 [info] Extracting extension completed. dracula-theme.theme-dracula
+2024-03-22 14:09:27.464 [info] Extension installed successfully: dracula-theme.theme-dracula
+2024-03-22 14:09:27.590 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:09:55.131 [info] Getting Manifest... akamud.vscode-theme-onedark
+2024-03-22 14:09:55.177 [info] Installing extension: akamud.vscode-theme-onedark
+2024-03-22 14:09:59.259 [info] Getting Manifest... zhuangtongfa.material-theme
+2024-03-22 14:09:59.294 [info] Installing extension: zhuangtongfa.material-theme
+2024-03-22 14:10:05.242 [info] Getting Manifest... azemoh.one-monokai
+2024-03-22 14:10:05.257 [info] Extension signature is verified: akamud.vscode-theme-onedark
+2024-03-22 14:10:05.275 [info] Installing extension: azemoh.one-monokai
+2024-03-22 14:10:07.040 [info] Extracted extension to file:///home/zii/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0: akamud.vscode-theme-onedark
+2024-03-22 14:10:07.057 [info] Renamed to /home/zii/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0
+2024-03-22 14:10:07.067 [info] Extracting extension completed. akamud.vscode-theme-onedark
+2024-03-22 14:10:07.113 [info] Extension installed successfully: akamud.vscode-theme-onedark
+2024-03-22 14:10:07.185 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:10:10.856 [info] Extension signature is verified: zhuangtongfa.material-theme
+2024-03-22 14:10:11.503 [info] Extracted extension to file:///home/zii/.vscode/extensions/zhuangtongfa.material-theme-3.17.0: zhuangtongfa.material-theme
+2024-03-22 14:10:11.526 [info] Renamed to /home/zii/.vscode/extensions/zhuangtongfa.material-theme-3.17.0
+2024-03-22 14:10:11.542 [info] Extracting extension completed. zhuangtongfa.material-theme
+2024-03-22 14:10:11.598 [info] Extension installed successfully: zhuangtongfa.material-theme
+2024-03-22 14:10:11.660 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:10:16.781 [info] Extension signature is verified: azemoh.one-monokai
+2024-03-22 14:10:16.934 [info] Extracted extension to file:///home/zii/.vscode/extensions/azemoh.one-monokai-0.5.0: azemoh.one-monokai
+2024-03-22 14:10:16.950 [info] Renamed to /home/zii/.vscode/extensions/azemoh.one-monokai-0.5.0
+2024-03-22 14:10:16.958 [info] Extracting extension completed. azemoh.one-monokai
+2024-03-22 14:10:17.000 [info] Extension installed successfully: azemoh.one-monokai
+2024-03-22 14:10:17.065 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:10:37.481 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-03-22 14:10:37.525 [info] Installing extension: vscode-icons-team.vscode-icons
+2024-03-22 14:10:50.131 [info] Extension signature is verified: vscode-icons-team.vscode-icons
+2024-03-22 14:10:56.145 [info] Extracted extension to file:///home/zii/.vscode/extensions/vscode-icons-team.vscode-icons-12.7.0: vscode-icons-team.vscode-icons
+2024-03-22 14:10:56.187 [info] Renamed to /home/zii/.vscode/extensions/vscode-icons-team.vscode-icons-12.7.0
+2024-03-22 14:10:56.199 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2024-03-22 14:10:56.252 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2024-03-22 14:10:56.324 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-22 14:10:58.138 [info] Getting Manifest... enkia.tokyo-night
+2024-03-22 14:10:58.164 [info] Installing extension: enkia.tokyo-night
+2024-03-22 14:11:11.253 [info] Extension signature is verified: enkia.tokyo-night
+2024-03-22 14:11:11.370 [info] Extracted extension to file:///home/zii/.vscode/extensions/enkia.tokyo-night-1.0.6: enkia.tokyo-night
+2024-03-22 14:11:11.385 [info] Renamed to /home/zii/.vscode/extensions/enkia.tokyo-night-1.0.6
+2024-03-22 14:11:11.393 [info] Extracting extension completed. enkia.tokyo-night
+2024-03-22 14:11:11.442 [info] Extension installed successfully: enkia.tokyo-night
+2024-03-22 14:11:11.467 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zii/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)

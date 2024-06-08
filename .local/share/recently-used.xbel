@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/zii/contoh%20skripsi%20tentang%20pasar%20Desa.pdf" added="2024-04-28T03:33:18.240362Z" modified="2024-04-28T15:37:33.326330Z" visited="2024-04-28T03:33:18.240368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-04-28T03:33:18.240382Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-04-28T15:37:33.326321Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/contoh%20skripsi%20tentang%20pasar%20Desa.docx" added="2024-04-28T15:43:08.748627Z" modified="2024-04-28T15:43:08.748656Z" visited="2024-04-28T15:43:08.748633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-04-28T15:43:08.748646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/contoh%2520skripsi%2520tentang%2520pasar%2520Desa.docx" added="2024-04-28T15:43:18.084642Z" modified="2024-05-01T00:41:00.542575Z" visited="2024-04-28T15:43:18.084647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T00:41:00.542563Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/Surat%20Lamaran.pdf" added="2024-05-01T00:28:50.425019Z" modified="2024-05-01T00:28:50.425054Z" visited="2024-05-01T00:28:50.425025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T00:28:50.425041Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/Surat%2520Lamaran.pdf" added="2024-05-01T00:29:06.730584Z" modified="2024-05-01T00:29:22.345199Z" visited="2024-05-01T00:29:06.730590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T00:29:22.345184Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/32030036315250124_MUHAMMAD_ZIEHAD_NAZBUDIN.pdf" added="2024-05-01T00:44:25.643822Z" modified="2024-05-01T00:45:30.122157Z" visited="2024-05-01T00:44:25.643830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T00:45:30.122147Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/1706483274883_Surat%20Lamaran.pdf" added="2024-05-01T00:45:17.560422Z" modified="2024-05-01T00:45:17.560445Z" visited="2024-05-01T00:45:17.560427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T00:45:17.560436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/1706483274883_Surat%2520Lamaran.pdf" added="2024-05-01T00:45:42.287930Z" modified="2024-05-01T00:54:20.704807Z" visited="2024-05-01T00:45:42.287935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T00:54:20.704790Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/CV" added="2024-05-01T00:53:46.046196Z" modified="2024-05-01T00:53:46.046235Z" visited="2024-05-01T00:53:46.046205Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T00:53:46.046219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/CV.docx" added="2024-05-01T00:54:20.704862Z" modified="2024-05-01T02:55:00.559894Z" visited="2024-05-01T00:54:20.704866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T02:55:00.559883Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/Surat%20Lamaran%20Only.pdf" added="2024-05-01T02:50:26.740347Z" modified="2024-05-01T02:55:17.948673Z" visited="2024-05-01T02:50:26.740355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T02:55:17.948662Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/Surat%2520Lamaran%2520Only.pdf" added="2024-05-01T02:55:24.697674Z" modified="2024-05-01T02:57:55.679517Z" visited="2024-05-01T02:55:24.697679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T02:57:55.679507Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zii/z/Surat%20Lamaran%20Only" added="2024-05-01T02:57:44.070307Z" modified="2024-05-01T02:57:44.070339Z" visited="2024-05-01T02:57:44.070315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-05-01T02:57:44.070325Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

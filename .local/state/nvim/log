@@ -1,0 +1,2 @@
+ERR 2024-03-22T15:01:54.896 ?.12510    vim_mktempdir:3327: tempdir root has invalid permissions (40777): /tmp/nvim.zii
+ERR 2024-03-22T15:03:31.439 ?.12771    vim_mktempdir:3327: tempdir root has invalid permissions (40777): /tmp/nvim.zii

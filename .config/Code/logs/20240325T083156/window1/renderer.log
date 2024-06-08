@@ -1,0 +1,8 @@
+2024-03-25 08:32:01.032 [info] Started local extension host with pid 32378.
+2024-03-25 08:32:11.945 [info] [perf] Render performance baseline is 523ms
+2024-03-25 08:32:34.813 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 28ms.
+2024-03-25 08:32:36.387 [info] Started local extension host with pid 32720.
+2024-03-25 08:32:51.346 [info] [perf] Render performance baseline is 557ms
+2024-03-25 08:32:59.099 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at g.f (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:21613)
+    at l.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:21434)

@@ -1,0 +1,23 @@
+2024-03-25 08:32:14.218 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-25 08:32:17.809 [info] [Info  - 8:32:17 AM] (32519) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-25 08:32:17.811 [info] [Info  - 8:32:17 AM] (32519) Server root directory: file:///home/zii/.vscode/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 08:32:52.586 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-25 08:32:55.754 [info] [Info  - 8:32:55 AM] (334) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-25 08:32:55.759 [info] [Info  - 8:32:55 AM] (334) Server root directory: file:///home/zii/.vscode/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 08:32:55.760 [info] [Info  - 8:32:55 AM] (334) Starting service instance "awesome"
+2024-03-25 08:32:56.256 [info] [Info  - 8:32:56 AM] (334) No source files found.
+2024-03-25 08:32:57.396 [info] [Error - 8:32:57 AM] Server process exited with code 0.
+2024-03-25 08:33:00.542 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-25 08:33:03.860 [info] [Info  - 8:33:03 AM] (454) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-25 08:33:03.861 [info] [Info  - 8:33:03 AM] (454) Server root directory: file:///home/zii/.vscode/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 08:33:03.898 [info] [Info  - 8:33:03 AM] (454) Starting service instance "awesome"
+2024-03-25 08:33:04.164 [info] [Info  - 8:33:04 AM] (454) Setting pythonPath for service "awesome": "/bin/python3"
+2024-03-25 08:33:04.165 [info] [Info  - 8:33:04 AM] (454) Setting environmentName for service "awesome": "3.10.12 (global)"
+2024-03-25 08:33:04.310 [info] [Info  - 8:33:04 AM] (454) Assuming Python version 3.10
+2024-03-25 08:33:04.677 [info] [Info  - 8:33:04 AM] (454) No source files found.
+2024-03-25 08:33:06.852 [info] [Info  - 8:33:06 AM] (454) Setting pythonPath for service "awesome": "/bin/python3"
+2024-03-25 08:33:06.853 [info] [Info  - 8:33:06 AM] (454) Setting environmentName for service "awesome": "3.10.12 (global)"
+2024-03-25 08:33:07.025 [info] [Info  - 8:33:07 AM] (454) Assuming Python version 3.10
+2024-03-25 08:33:07.389 [info] [Info  - 8:33:07 AM] (454) No source files found.
+2024-03-25 08:33:07.420 [info] [Info  - 8:33:07 AM] (454) Background analysis(1) root directory: file:///home/zii/.vscode/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 08:33:07.421 [info] [Info  - 8:33:07 AM] (454) Background analysis(1) started
