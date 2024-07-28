@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "window.zoomLevel": 2,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Medium', 'RobotoMono Nerd Font Medium', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.rulers": [
+        72, 80, 120
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#00edfa84"
+    },
+    "editor.minimap.enabled": false
+    
+}

@@ -1,0 +1,12 @@
+2024-07-21 12:19:05.163 [error] Error: Unable to retrieve mac address (unexpected format)
+    at D (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:42:67276)
+    at a (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:44:38002)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /usr/share/code/resources/app/out/vs/code/electron-main/main.js:44:37878
+    at async D (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:103:1341)
+    at async k (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:103:1768)
+    at async Promise.all (index 0)
+    at async yt.startup (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:114:57664)
+    at async Se.a (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:116:1275)
+2024-07-21 12:19:05.835 [info] update#setState idle
+2024-07-21 12:19:17.674 [info] Extension host with pid 1920 exited with code: 0, signal: unknown.

@@ -1,0 +1,12 @@
+
+2024/07/21 (12:24:13) | ===> btop++ v.1.2.3
+2024/07/21 (12:24:13) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2024/07/21 (14:12:32) | ===> btop++ v.1.2.3
+2024/07/21 (14:12:32) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2024/07/21 (14:20:03) | ===> btop++ v.1.2.3
+2024/07/21 (14:20:03) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/07/21 (14:20:09) | WARNING: get_cpuHZ() : Failed to read /sys/devices/system/cpu/cpufreq/policy and /proc/cpuinfo.
